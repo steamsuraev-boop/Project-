@@ -17,8 +17,8 @@
   "servers": [
     {
       "name": "test #1",
-      "ip": "188.127.241.74",
-      "port": 1865,
+      "ip": "80.242.59.112",
+      "port": 4221,
       "x2": false,
       "online": 0,
       "maxonline": 100
