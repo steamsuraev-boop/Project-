@@ -16,7 +16,7 @@
 
   "servers": [
     {
-      "name": "test #1",
+      "name": "SPUTNIK",
       "ip": "80.242.59.112",
       "port": 4221,
       "x2": false,
@@ -36,7 +36,7 @@
 
   "cache": {
     "enabled": true,
-    "api_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/api.json",
+    "api_url": "https://www.dropbox.com/scl/fi/0kis8tag9u49espfhogy9/api.json?rlkey=xnzu8iilwm834wsvcj987niyi&st=g3vezi84&dl=1",
     "files_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/files"
   },
 
